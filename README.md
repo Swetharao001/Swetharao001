@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swetharao001
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java full stack and react js
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me at swetharaodara001@gmail.com
 
 <!---
